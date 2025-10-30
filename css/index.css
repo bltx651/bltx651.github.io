@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background: #102142;
+    font-size: 3vh;
+    color: #dddee6;
+}
+
+h2 {
+    font-size: 4vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+h3 { 
+    font-size: 3.5vh;
+    margin-top: 10vh;
+}
+
+a {
+  display: inline-block;
+  padding: 8px 12px;
+  background-color: #1E90FF;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+a:hover {
+  background-color: #1C86EE;
+}
